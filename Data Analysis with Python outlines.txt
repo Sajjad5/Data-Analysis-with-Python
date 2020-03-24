@@ -1,0 +1,32 @@
+Key Concepts Learned in Data Analysis with Python
+
+- Understanding the Data
+- Importing and Exporting Data in Python
+- Getting Started Analyzing Data in Python
+- Python Packages for Data Science
+
+- Identify and Handle Missing Values
+- Data Formatting
+- Data Normalization
+- Binning
+- Indicator variables
+
+- Descriptive Statistics
+- Basic of Grouping
+- ANOVA
+- Correlation
+
+- Simple and Multiple Linear Regression
+- Model Evaluation Using Visualization
+- Polynomial Regression and Pipelines
+- R-squared and MSE for In-Sample Evaluation
+- Prediction and Decision Making
+
+- Model Evaluation
+- Over-fitting, Under-fitting and Model Selection
+- Ridge Regression
+- Grid Search
+- Model Refinement
+
+- Create a Jupyter notebook
+- Housing price data
